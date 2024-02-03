@@ -4,8 +4,8 @@
 
 I'm Grace! A software developer currently working in the tech consulting space. Although I don't get to utilise these skills much, I have an interest in design, user experience and frontend development.
 
-📫 Reach me at: gracesubianto@gmail.com
-🔎 Find me LinkedIn at: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
+📫 Reach me at: gracesubianto@gmail.com<br/>
+🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
 
 <!--
 **gracevs333/gracevs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
