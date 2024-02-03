@@ -1,4 +1,6 @@
-### Hi there 👋
+### Nice to meet you 👋
+
+<img src="gracehere.png" height="200">
 
 <!--
 **gracevs333/gracevs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
