@@ -1,8 +1,6 @@
-### Nice to meet you 👋
-
 <img src="gracehere.png" height="200">
 
-I'm Grace! A software developer currently working in the tech consulting space. Although I don't get to utilise these skills much, I have an interest in design, user experience and frontend development.
+Nice to meet you, I'm Grace! 👋 A software developer currently working in the tech consulting space. Although I don't get to utilise these skills much, I have an interest in design, user experience and frontend development.
 
 📫 Reach me at: gracesubianto@gmail.com<br/>
 🔎 Connect with me here: [gracesubianto](https://www.linkedin.com/in/gracesubianto/)
